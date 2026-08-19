@@ -1,16 +1,30 @@
-## Hi there 👋
+# Mario Flores Rodríguez
 
-<!--
-**MFloresr/Mfloresr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador web Python/Django
 
-Here are some ideas to get you started:
+Profesional informático con formación en Administración de Sistemas
+Informáticos en Red y Desarrollo de Aplicaciones Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo aplicaciones web con:
+
+- Python y Django
+- Django REST Framework
+- Vue.js y JavaScript
+- APIs REST
+- SQL
+- Git y GitHub
+
+También cuento con formación y experiencia en sistemas, redes, servidores,
+hardware y despliegue de aplicaciones.
+
+## Proyectos destacados
+
+- [Mi Jornada](enlace-al-repositorio): aplicación web para registrar jornadas
+  laborales y calcular salarios.
+- [Sudoku](enlace-al-repositorio): aplicación de Sudoku.
+- [Portfolio](enlace-al-repositorio): portfolio personal.
+
+## Contacto
+
+- LinkedIn: [enlace]
+- Email: mrsitofull@gmail.com
